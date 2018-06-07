@@ -7,3 +7,4 @@ public class MyMessage {
 		System.out.println(message);
 	}
 }
+aasasdasd
